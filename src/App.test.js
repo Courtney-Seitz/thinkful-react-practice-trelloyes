@@ -1,5 +1,6 @@
 // make React available
 import React from 'react';
+import renderer from 'react-test-renderer';
 
 // make the ReactDOM available, necessary for rendering the component
 import ReactDOM from 'react-dom';
